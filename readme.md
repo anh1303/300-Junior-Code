@@ -9,19 +9,19 @@ Welcome to my repository for the **300 Bài Code Thiếu Nhi** challenge! This p
 ## 👨‍💻 About Me
 I am a 3rd-year university student specializing in software development. This repository serves as my "workout log" for mastering Data Structures and Algorithms (DSA).
 
-* **Primary Languages:** C++, C#, Python, JavaScript
+* **Primary Languages:** C++, C#, Python, Java
 * **Focus:** Problem-solving efficiency and clean code.
 
 ---
 
 ## 📊 Progress Summary
 - **Current Goal:** 300 Problems
-- **Completed:** 5 / 300
+- **Completed:** 13 / 300
 - **Status:** 🟢 Active
 
 | Difficulty | Count |
 | :--- | :--- |
-| 🟢 Easy | `5/42` |
+| 🟢 Easy | 13/42` |
 | 🟡 Medium | `0/101` |
 | 🔴 Hard | `0/26` |
 
