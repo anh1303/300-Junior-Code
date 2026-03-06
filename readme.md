@@ -16,12 +16,12 @@ I am a 3rd-year university student specializing in software development. This re
 
 ## 📊 Progress Summary
 - **Current Goal:** 300 Problems
-- **Completed:** 13 / 300
+- **Completed:** 15 / 300
 - **Status:** 🟢 Active
 
 | Difficulty | Count |
 | :--- | :--- |
-| 🟢 Easy | 13/42` |
+| 🟢 Easy | 15/42` |
 | 🟡 Medium | `0/101` |
 | 🔴 Hard | `0/26` |
 
