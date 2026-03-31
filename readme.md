@@ -21,7 +21,7 @@ I am a 3rd-year university student specializing in software development. This re
 
 | Difficulty | Count |
 | :--- | :--- |
-| 🟢 Easy | 23/42` |
+| 🟢 Easy | 29/42` |
 | 🟡 Medium | `0/101` |
 | 🔴 Hard | `0/26` |
 
